@@ -1,4 +1,4 @@
-# Max-Array-Sum Solution
+# Max Array Sum Solution
 
 Platform: HackerRank
 
